@@ -8,7 +8,7 @@
 		{
 			"name": "list-limits",
 			"description": "Iran Limit Bypass",
-			"domain_files": ["list-limits.txt"]
+			"domain_files": ["iran-limits.txt"]
 		},
 		{
 			"name": "blizzard",
