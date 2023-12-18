@@ -6,7 +6,7 @@
 			"domain_files": ["arenanet.txt"]
 		},
 		{
-			"name": "list-limits",
+			"name": "iran-limits",
 			"description": "Iran Limit Bypass",
 			"domain_files": ["iran-limits.txt"]
 		},
