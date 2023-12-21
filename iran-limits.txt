@@ -592,6 +592,7 @@ openai.com
 webex.com
 openembedded.org
 fastapi.tiangolo.com
+proxmox.com
 *.djangoproject.com
 *.android.com
 *.amp.dev
@@ -1186,3 +1187,4 @@ fastapi.tiangolo.com
 *.webex.com
 *.openembedded.org
 *.fastapi.tiangolo.com
+*.proxmox.com
