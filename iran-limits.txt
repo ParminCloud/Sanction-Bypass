@@ -594,6 +594,7 @@ openembedded.org
 fastapi.tiangolo.com
 proxmox.com
 vyos.io
+cloudfront.net
 *.djangoproject.com
 *.android.com
 *.amp.dev
@@ -1190,3 +1191,4 @@ vyos.io
 *.fastapi.tiangolo.com
 *.proxmox.com
 *.vyos.io
+*.cloudfront.net
