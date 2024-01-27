@@ -595,6 +595,10 @@ fastapi.tiangolo.com
 proxmox.com
 vyos.io
 cloudfront.net
+autodesk.com
+creativemarket.com
+ebay.com
+trimble.com
 *.djangoproject.com
 *.android.com
 *.amp.dev
@@ -1192,3 +1196,7 @@ cloudfront.net
 *.proxmox.com
 *.vyos.io
 *.cloudfront.net
+*.autodesk.com
+*.creativemarket.com
+*.ebay.com
+*.trimble.com
