@@ -599,6 +599,7 @@ autodesk.com
 creativemarket.com
 ebay.com
 trimble.com
+schema.org
 *.djangoproject.com
 *.android.com
 *.amp.dev
@@ -1200,3 +1201,4 @@ trimble.com
 *.creativemarket.com
 *.ebay.com
 *.trimble.com
+*.schema.org
