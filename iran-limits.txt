@@ -600,6 +600,8 @@ creativemarket.com
 ebay.com
 trimble.com
 schema.org
+qnap.com
+*.qnap.com
 *.djangoproject.com
 *.android.com
 *.amp.dev
