@@ -601,6 +601,9 @@ ebay.com
 trimble.com
 schema.org
 qnap.com
+chat.openai.com
+gemini.google.com
+*.openai.com
 *.qnap.com
 *.djangoproject.com
 *.android.com
