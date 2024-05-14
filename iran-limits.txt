@@ -603,6 +603,8 @@ schema.org
 qnap.com
 chat.openai.com
 gemini.google.com
+modernc.org
+*.modernc.org
 *.openai.com
 *.qnap.com
 *.djangoproject.com
