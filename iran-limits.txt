@@ -18,6 +18,7 @@ microsoft.com
 uxcam.com
 xbox.com
 gamepass.com
+repo.pritunl.com
 windows.com
 microsoft.com
 microsoft.com
