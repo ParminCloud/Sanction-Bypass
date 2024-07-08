@@ -604,6 +604,9 @@ qnap.com
 chat.openai.com
 gemini.google.com
 modernc.org
+plesk.com
+Ka.plesk.com
+*.plesk.com
 *.modernc.org
 *.openai.com
 *.qnap.com
