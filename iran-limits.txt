@@ -1213,3 +1213,5 @@ Ka.plesk.com
 *.ebay.com
 *.trimble.com
 *.schema.org
+pritunl.com
+*.pritunl.com
