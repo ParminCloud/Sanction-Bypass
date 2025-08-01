@@ -607,6 +607,10 @@ gemini.google.com
 modernc.org
 plesk.com
 Ka.plesk.com
+ea.com
+easports.com
+*.easports.com
+*.ea.com
 *.plesk.com
 *.modernc.org
 *.openai.com
