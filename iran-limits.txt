@@ -609,6 +609,7 @@ plesk.com
 Ka.plesk.com
 ea.com
 easports.com
+registry.gitlab.com
 *.easports.com
 *.ea.com
 *.plesk.com
