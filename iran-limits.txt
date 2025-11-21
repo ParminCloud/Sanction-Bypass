@@ -609,6 +609,8 @@ plesk.com
 Ka.plesk.com
 ea.com
 easports.com
+easlish.com
+*.easlish.com
 *.easports.com
 *.ea.com
 *.plesk.com
